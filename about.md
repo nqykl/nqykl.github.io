@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+┌❀┐ 1:首先,您能出现在我Q里已经很牛B了，
+┊个┊2:别总和我提起谁,多和别人提起我。
+┊人┊3:别总问我是谁,不认识就请您拉黑，
+┊声┊4:您有装B的权利,我有拉黑您的理由。
+┊明┊5:别跟我问东问西,百度懂的多,有问题找它去，
+└❀┘ 6:别和我装大神,大神就不会出现在我Q里。
